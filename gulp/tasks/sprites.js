@@ -13,6 +13,11 @@ var config = {
         }
       }
     }
+  },
+  shape: {
+    spacing: {
+      padding: 1
+    }
   }
 }
 
